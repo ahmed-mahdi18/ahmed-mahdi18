@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mahdi</h1>
 <h3 align="center">Computer Science,linguistics and language</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azizosharke&label=Profile%20views&color=0e75b6&style=flat" alt="azizosharke" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azizosharke&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-mahdi18" /> </p>
 
 - 🔭 I’m currently working on **My Own Projects**
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmed-mahdi18](https://github.com/ahmed-mahdi18)
+- 👨‍💻 All of my projects are available at [https://github.com/ahmed-mahdi18?tab=repositories](https://github.com/ahmed-mahdi18?tab=repositories)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahmed-mahdi-b43529205/](https://www.linkedin.com/in/ahmed-mahdi-b43529205/)
 
