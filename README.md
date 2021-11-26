@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mahdi</h1>
-<h3 align="center">Computer Science,linguistics and language</h3>
+<h3 align="center">Computer Science,Linguistics & Language</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azizosharke&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-mahdi18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-mahdi18&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-mahdi18" /> </p>
 
 - 🔭 I’m currently working on **My Own Projects**
 
