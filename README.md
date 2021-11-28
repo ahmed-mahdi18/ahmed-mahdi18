@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmed-mahdi18?tab=repositories](https://github.com/ahmed-mahdi18?tab=repositories)
+- 👨‍💻 All of my repositories are available at [https://github.com/ahmed-mahdi18?tab=repositories](https://github.com/ahmed-mahdi18?tab=repositories)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahmed-mahdi-b43529205/](https://www.linkedin.com/in/ahmed-mahdi-b43529205/)
 
