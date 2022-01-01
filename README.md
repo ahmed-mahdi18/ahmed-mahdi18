@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mahdi</h1>
-<h3 align="center">Computer Science,Linguistics & Language</h3>
+<h3 align="center">Computer Science,Linguistics & German 🇩🇪</h3>
 
 - 🔭 I’m currently working on **My Own Projects**
 
 - 🌱 I’m currently learning **C++**
+
+- 🪄 I'm interested in Cyber security, AI and software development
 
 - 👨‍💻 All of my repositories are available at [https://github.com/ahmed-mahdi18?tab=repositories](https://github.com/ahmed-mahdi18?tab=repositories)
 
