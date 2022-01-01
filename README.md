@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mahdi</h1>
-<h3 align="center">Computer Science,Linguistics & German![image](https://user-images.githubusercontent.com/72886944/147859378-0c00014a-71ba-4db0-bc02-7b9cacb08440.png)
-</h3>
+<h3 align="center"> Computer Science, Linguistics & German! </h3>
 
 - 🔭 I’m currently working on **My Own Projects**
 
