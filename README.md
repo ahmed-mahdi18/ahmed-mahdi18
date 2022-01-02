@@ -1,5 +1,4 @@
 ## Hello, I'm [Ahmed Mahdi!](https://pawan.live) 👋
-<h3 align="center"> Computer Science, Linguistics & German! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed&label=Views&color=blue&style=plastic" alt="ahmed" /> </p>
 
@@ -13,8 +12,7 @@
   <img align="left" alt="ahmed-mahdi18" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
-<br/>
-
+## 🎓 I'm an Computer Science,Linguistics & German Student at Trinity College Dublin
 - 🔭 I’m currently working on **My Own Projects**
 - 🌱 I’m currently learning **C++**
 - 🪄 I'm interested in Cyber security, AI and software development
@@ -25,17 +23,18 @@
 
 
 [![GitHub ahmed-mahdi18](https://img.shields.io/github/followers/ahmed-mahdi18?label=follow&style=social)](https://github.com/ahmed-mahdi18)
+<br/>
 
+## 🧰 Languages and Tools:
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Cplusplus" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="html" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="css" height="40" style="vertical-align:top; margin:4px">
+<br/>
 
-**Languages and Tools:**  
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cplusplus/cplusplus.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
-
+## :trophy: My Github Stats:
 <a href="https://github.com/ahmed-mahdi18">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-mahdi18&theme=light&hide_langs_below=1" />
 </a>
