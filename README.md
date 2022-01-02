@@ -1,6 +1,6 @@
-## Hello, I'm [Ahmed Mahdi!](https://pawan.live) 👋
+## Hello, I'm [Ahmed Mahdi!](https://ahmed.live) 👋
 
-![](https://visitor-badge.laobi.icu/badge?page_id=ahmed-mahdi18.ahmed-mahdi18) [![Github](https://github.com/ahmed-mahdi18?label=Followers&logo=Github)](https://github.com/ahmed-mahdi18)
+![](https://visitor-badge.laobi.icu/badge?page_id=ahmed-mahdi18.ahmed-mahdi18) [![GitHub ahmed-mahdi18](https://img.shields.io/github/followers/ahmed-mahdi18?label=follow&style=social)](https://github.com/ahmed-mahdi18)
 
 <a href="https://www.linkedin.com/in/ahmed-mahdi-b43529205/">
   <img align="left" alt="ahmed-mahdi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-## 🎓 I'm an Computer Science,Linguistics & German Student at Trinity College Dublin
+## 🎓 I'm a Computer Science, Linguistics & German Student at Trinity College Dublin
 
 - 🔭 I’m currently working on **My Own Projects**.
 - 🌱 I’m currently learning **C++**.
