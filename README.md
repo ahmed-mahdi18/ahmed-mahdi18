@@ -1,4 +1,4 @@
-## Hola, I'm [Ahmed Mahdi!](https://pawan.live) 👋
+## Hello, I'm [Ahmed Mahdi!](https://pawan.live) 👋
 <h3 align="center"> Computer Science, Linguistics & German! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed&label=Views&color=blue&style=plastic" alt="ahmed" /> </p>
@@ -29,7 +29,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
