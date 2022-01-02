@@ -21,7 +21,6 @@
 - 👨‍💻 All of my repositories are available at [https://github.com/ahmed-mahdi18?tab=repositories](https://github.com/ahmed-mahdi18?tab=repositories)
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahmed-mahdi-b43529205/](https://www.linkedin.com/in/ahmed-mahdi-b43529205/)
 - 📫 How to reach me **mahdiah@tcd.ie**
-- 
 [![Linkedin:ahmed-mahdi ](https://img.shields.io/badge/-ahmed-mahdi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-mahdi-b43529205/)](https://www.linkedin.com/in/ahmed-mahdi-b43529205/)
 [![GitHub ahmed-mahdi18](https://img.shields.io/github/followers/ahmed-mahdi18?label=follow&style=social)](https://github.com/ahmed-mahdi18)
 
