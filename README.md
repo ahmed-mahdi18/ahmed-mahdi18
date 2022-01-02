@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mahdi</h1>
 <h3 align="center"> Computer Science, Linguistics & German! </h3>
 
-<a href="https://www.linkedin.com/in/ahmed-mahdi-b43529205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-mahdi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-mahdi-b43529205/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-mahdi" height="30" width="40" /></a>
   
-<a href="https://www.instagram.com/ahmed_mahdi18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_mahdi18" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ahmed_mahdi18/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_mahdi18" height="30" width="40" /></a>
   
-  <a href="https://github.com/ahmed-mahdi18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ahmed-mahdi18" height="30" width="40" /></a>
+  <a href="https://github.com/ahmed-mahdi18" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ahmed-mahdi18" height="30" width="40" /></a>
 </p>
 
 - 🔭 I’m currently working on **My Own Projects**
