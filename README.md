@@ -2,18 +2,6 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ahmed-mahdi18.ahmed-mahdi18) [![GitHub ahmed-mahdi18](https://img.shields.io/github/followers/ahmed-mahdi18?label=follow&style=social)](https://github.com/ahmed-mahdi18)
 
-<a href="https://www.linkedin.com/in/ahmed-mahdi-b43529205/">
-  <img align="left" alt="ahmed-mahdi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/ahmed-mahdi18">
-  <img align="left" alt="ahmed-mahdi18" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/ahmed_mahdi18/">
-  <img align="left" alt="ahmed-mahdi18" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br/>
-<br/>
-
 ## 🎓 I'm a Computer Science, Linguistics & German Student at Trinity College Dublin
 
 - 🔭 I’m currently working on **My Own Projects**.
@@ -24,12 +12,22 @@
 - ⚡ fun fact: I like playing football and computer games.
 - 📫 How to reach me **mahdiah@tcd.ie**.
 
+## :email: Find me on:
+<a href="https://www.linkedin.com/in/ahmed-mahdi-b43529205/">
+  <img align="left" alt="ahmed-mahdi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/ahmed-mahdi18">
+  <img align="left" alt="ahmed-mahdi18" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/ahmed_mahdi18/">
+  <img align="left" alt="ahmed-mahdi18" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Css" height="40" style="vertical-align:top; margin:4px">
