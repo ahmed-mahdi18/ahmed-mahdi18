@@ -24,7 +24,7 @@
 - 📫 How to reach me **mahdiah@tcd.ie**
 
 
-[![Linkedin ahmed-mahdi ](https://img.shields.io/badge/-ahmed-mahdi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-mahdi-b43529205/)](https://www.linkedin.com/in/ahmed-mahdi-b43529205/)
+[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
 [![GitHub ahmed-mahdi18](https://img.shields.io/github/followers/ahmed-mahdi18?label=follow&style=social)](https://github.com/ahmed-mahdi18)
 
 
