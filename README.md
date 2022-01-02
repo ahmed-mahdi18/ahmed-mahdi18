@@ -20,6 +20,7 @@
 - 🪄 I'm interested in Cyber security, AI and software development
 - 👨‍💻 All of my repositories are available at [https://github.com/ahmed-mahdi18?tab=repositories](https://github.com/ahmed-mahdi18?tab=repositories)
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahmed-mahdi-b43529205/](https://www.linkedin.com/in/ahmed-mahdi-b43529205/)
+- ⚡ fun fact: I like playing football and computer games
 - 📫 How to reach me **mahdiah@tcd.ie**
 
 
@@ -31,10 +32,10 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Html/Html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cplusplus/cplusplus.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
 
 <a href="https://github.com/ahmed-mahdi18">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-mahdi18&theme=light&hide_langs_below=1" />
