@@ -2,7 +2,7 @@
 <h3 align="center"> Computer Science, Linguistics & German! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed&label=Views&color=blue&style=plastic" alt="ahmed" /> </p>
-[![Github](https://img.shields.io/github/followers/ahmed-mahdi18?label=Follow&style=social)](https://github.com/ahmed-mahdi18)
+![Github](https://img.shields.io/github/followers/ahmed-mahdi18?label=Follow&style=social)](https://github.com/ahmed-mahdi18)
 
 <a href="https://www.linkedin.com/in/ahmed-mahdi-b43529205/">
   <img align="left" alt="ahmed-mahdi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
