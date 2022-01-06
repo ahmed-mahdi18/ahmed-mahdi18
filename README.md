@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ahmed-mahdi18.ahmed-mahdi18) [![GitHub ahmed-mahdi18](https://img.shields.io/github/followers/ahmed-mahdi18?label=follow&style=social)](https://github.com/ahmed-mahdi18)
 
-## 🎓 I'm a Computer Science, Linguistics & German Student at Trinity College Dublin
+## 🎓 I'm a Computer Science, Linguistics & German Student
 
 - 🔭 I’m currently working on **My Own Projects**.
 - 🌱 I’m currently learning **C++**.
