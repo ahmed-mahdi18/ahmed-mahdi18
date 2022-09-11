@@ -5,7 +5,7 @@
 ## 🎓 I'm a Computer Science, Linguistics & German Student
 
 - 🔭 I’m currently working on **My Own Projects**.
-- 🌱 I’m currently learning **C++**.
+- 🌱 I’m currently learning **Python**.
 - 🪄 I'm interested in Cyber security, AI and software development.
 - 👨‍💻 All of my repositories are available at [https://github.com/ahmed-mahdi18?tab=repositories](https://github.com/ahmed-mahdi18?tab=repositories).
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahmed-mahdi-b43529205/](https://www.linkedin.com/in/ahmed-mahdi-b43529205/).
